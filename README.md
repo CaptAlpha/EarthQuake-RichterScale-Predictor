@@ -1,0 +1,1 @@
+# EarthQuake-RichterScale-Predictor
